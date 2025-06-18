@@ -1,0 +1,92 @@
+[
+    {
+      "id": 1,
+      "name": "ChatGPT",
+      "category": "Writing",
+      "url": "https://chat.openai.com",
+      "excerpt": "Advanced conversational AI for content creation, research, and brainstorming.",
+      "tags": ["AI Assistant", "Chatbot", "Content Generation"],
+      "pricing": "Freemium"
+    },
+    {
+      "id": 2,
+      "name": "Midjourney",
+      "category": "Image Generation",
+      "url": "https://www.midjourney.com",
+      "excerpt": "Create stunning visuals using AI from simple prompts.",
+      "tags": ["Art", "Images", "Creativity"],
+      "pricing": "Paid"
+    },
+    {
+      "id": 3,
+      "name": "GitHub Copilot",
+      "category": "Programming",
+      "url": "https://github.com/features/copilot",
+      "excerpt": "AI pair programmer that suggests code and entire functions in real-time.",
+      "tags": ["Code Completion", "Developer Tools", "Productivity"],
+      "pricing": "Paid"
+    },
+    {
+      "id": 4,
+      "name": "Notion AI",
+      "category": "Productivity",
+      "url": "https://www.notion.so/product/ai",
+      "excerpt": "AI-powered workspace for notes, docs, and project management.",
+      "tags": ["Organization", "Task Management", "Writing"],
+      "pricing": "Freemium"
+    },
+    {
+      "id": 5,
+      "name": "Runway ML",
+      "category": "Video Editing",
+      "url": "https://runwayml.com",
+      "excerpt": "Advanced AI tools for video editing, effects, and generation.",
+      "tags": ["Video", "Creative Tools", "Design"],
+      "pricing": "Freemium"
+    },
+    {
+      "id": 6,
+      "name": "ElevenLabs",
+      "category": "Audio",
+      "url": "https://elevenlabs.io",
+      "excerpt": "Most realistic and versatile AI speech software for creators and publishers.",
+      "tags": ["Text-to-Speech", "Voice Cloning", "Narration"],
+      "pricing": "Freemium"
+    },
+    {
+      "id": 7,
+      "name": "DALL-E 3",
+      "category": "Image Generation",
+      "url": "https://openai.com/dall-e",
+      "excerpt": "Create realistic images and art from a description in natural language.",
+      "tags": ["Art", "Design", "Creativity"],
+      "pricing": "Paid"
+    },
+    {
+      "id": 8,
+      "name": "Grammarly",
+      "category": "Writing",
+      "url": "https://www.grammarly.com",
+      "excerpt": "AI-powered writing assistant that helps you write mistake-free.",
+      "tags": ["Grammar", "Proofreading", "Productivity"],
+      "pricing": "Freemium"
+    },
+    {
+      "id": 9,
+      "name": "Synthesia",
+      "category": "Video Generation",
+      "url": "https://www.synthesia.io",
+      "excerpt": "Create AI videos with virtual presenters in minutes.",
+      "tags": ["Avatars", "E-learning", "Marketing"],
+      "pricing": "Paid"
+    },
+    {
+      "id": 10,
+      "name": "Tabnine",
+      "category": "Programming",
+      "url": "https://www.tabnine.com",
+      "excerpt": "AI code completion that boosts developer productivity.",
+      "tags": ["Code Assistant", "Autocomplete", "IDE"],
+      "pricing": "Freemium"
+    }
+  ]
